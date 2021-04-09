@@ -1,2 +1,5 @@
 1- Mencione por lo menos 4 sistemas y procedimientos que forman parte del ambiente de una empresa.
 clientes, proveedores,competidores,gobierno.
+
+2- Mencione los componentes básicos de un sistema
+los componentes básicos de un sistema son tres: el objetivo, los elementos y las interrelaciones.

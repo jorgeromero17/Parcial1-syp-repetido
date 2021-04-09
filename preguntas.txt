@@ -10,3 +10,6 @@ el micleo técnico para muchas variables.
 
 4- Realice un esquema de los procesos básicos de un sistema abierto
 Entrada —> Proceso —>Salida
+
+5- ¿Mencione al menos 3 factores externos a las empresas que pueden regir su comportamiento?
+competidores, clientes y dimension socio-cultural

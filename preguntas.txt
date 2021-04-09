@@ -3,3 +3,13 @@ clientes, proveedores,competidores,gobierno.
 
 2- Mencione los componentes básicos de un sistema
 los componentes básicos de un sistema son tres: el objetivo, los elementos y las interrelaciones.
+
+3- ¿Qué es un sistema operativo?
+Tiene que ver principalmente con la racionalidad técnico-económica, y trata de crear certidumbre cerrando 
+el micleo técnico para muchas variables.
+
+4- Realice un esquema de los procesos básicos de un sistema abierto
+Entrada —> Proceso —>Salida
+
+5- ¿Mencione al menos 3 factores externos a las empresas que pueden regir su comportamiento?
+competidores, clientes y dimension socio-cultural
